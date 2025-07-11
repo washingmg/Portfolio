@@ -1,10 +1,10 @@
-import Home from "./pages/Home/sections/Home"
+import Hero from "./Hero/Hero"
 
 const App = () => {
 
   return (
     <>
-      <Home/>
+      <Hero />
     </>
   )
 }
